@@ -1,0 +1,16 @@
+{
+	"id": "4545dddPpLD",
+	"lastname": "test",
+	"firstname": "test last",
+	"email": "he_oh_garcon@hotmail.com",
+	"date": 1473866466000,
+	"date2": 1473693635000,
+	"gender": { "id": 0, "text": "homme" },
+	"gender2": { "id": 3, "text": "invalid" },
+	"sexe2": [{ "id": 2, "text": "duplicate" }, { "id": 3, "text": "invalid" }],
+	"sexe3": [{ "id": 0, "text": "homme" }, { "id": 1, "text": "femme" }],
+	"radio" : "1",
+	"radio2" : "3",
+	"myFileName" : ["57f6224c34dec1171c280af4","57f6224c34dec1171c280af5"],
+	"myFileName2" : "57f67831d2fe8929b409a590"
+}
